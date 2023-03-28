@@ -4,7 +4,7 @@
 
 El objetivo de este laboratorio es aplicar un analisis de cluster al [conjunto de datos de la flor Iris](https://en.wikipedia.org/wiki/Iris_flower_data_set), uno de los datasets mas populares en el uso de Machine Learning:
 
-[Dataset utilizado (Sin el tipo)](./iris.csv)
+[Dataset utilizado (Sin el tipo)](./iris.csv)  
 [Dataset utilizado (Con el tipo)](./iris-con-respuestas.csv)
 
 ### Prerequisitos
