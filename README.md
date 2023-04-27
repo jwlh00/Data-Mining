@@ -9,6 +9,7 @@ Para visualizar los diferentes directorios conteniendo los laboratorios se puede
 - [Laboratorio 2](./Lab2/)
 - [Laboratorio 3](./Lab3/)
 - [Laboratorio 4](./Lab4/)
+- [Laboratorio 5](./Lab5/)
 
 Grupo:  
 Andrés de la Roca - 20332  
